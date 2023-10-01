@@ -9,7 +9,7 @@ Ubrukt av pensum:
 - Arv og abstrakte klasser - så det ikke som hensiktsmessig
 
 ### Brukermanual:
-Jeg har laget en app for booking av hotellrom på et hotell. Den består av tre ulike sider: en forside hvor man velger innsjekk, utsjekk og et hotellrom, en bookingside hvor man fyller inn kundeinformasjon, og en endscreen som ønsker kunden et fint opphold. Disse tre sidene lagde jeg med ulike Panes i JavaFX for deretter å bruke setDisable() og setVisibile() for de ulike panesene sånn at jeg slapp å bruke flere Controllere.
+Jeg har laget en app for booking av hotellrom på et hotell. Den består av tre ulike sider: en forside hvor man velger innsjekk, utsjekk og et hotellrom, en bookingside hvor man fyller inn kundeinformasjon, og en endscreen som ønsker kunden et fint opphold. 
 
 Forside: Du må velge innsjekk- og utsjekkdato for oppholdet. Deretter må man trykke på «Sjekk dato»-knappen for å få opp hvilke rom som er ledige i den gitte perioden. Man kan sortere de ledige rommene enten etter pris eller romnummer. Deretter kan man gå videre til bookingsiden.
 

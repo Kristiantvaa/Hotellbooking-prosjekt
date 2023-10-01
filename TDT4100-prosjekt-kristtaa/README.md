@@ -1,13 +1,6 @@
 # Hotellbooking
 Appen ble laget etter MVC-designmønsteret i Java og JavaFX/FXML (SceneBuilder).
 
-Bruk av pensum: Assosiasjoner, delegering, interfacer (inkludert Comparable og Comparator), innkapsling og validering, filhåndtering og unntak, testing og FXML.
-
-Ubrukt av pensum:
-- Lambdauttrykk, streams og eventuelle andre funksjonelle grensesnitt - skulle brukt lambdauttrykk blant annet for å implementere de funksjonelle grensesnittene på en mye raskere måte, men det var et krav om å implementere dem med hjelpeklasse.
-- Observatør-observert - så det ikke som hensiktsmessig
-- Arv og abstrakte klasser - så det ikke som hensiktsmessig
-
 ### Brukermanual:
 Jeg har laget en app for booking av hotellrom på et hotell. Den består av tre ulike sider: en forside hvor man velger innsjekk, utsjekk og et hotellrom, en bookingside hvor man fyller inn kundeinformasjon, og en endscreen som ønsker kunden et fint opphold. 
 

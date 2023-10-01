@@ -4,7 +4,7 @@ Appen ble laget etter MVC-designmønsteret i Java og JavaFX/FXML (SceneBuilder).
 Bruk av pensum: Assosiasjoner, delegering, interfacer (inkludert Comparable og Comparator), innkapsling og validering, filhåndtering og unntak, testing og FXML.
 
 Ubrukt av pensum:
-- lambdauttrykk, streams og eventuelle andre funksjonelle grensesnitt - skulle brukt lambdauttrykk blant annet for å implementere de funksjonelle grensesnittene på en mye raskere måte, men det var et krav om å implementere dem med hjelpeklasse.
+- Lambdauttrykk, streams og eventuelle andre funksjonelle grensesnitt - skulle brukt lambdauttrykk blant annet for å implementere de funksjonelle grensesnittene på en mye raskere måte, men det var et krav om å implementere dem med hjelpeklasse.
 - Observatør-observert - så det ikke som hensiktsmessig
 - Arv og abstrakte klasser - så det ikke som hensiktsmessig
 
